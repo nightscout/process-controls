@@ -2,6 +2,10 @@
 Nonconforming product
 =====================
 
+.. toctree::
+   :maxdepth: 2
+
+   01-android-crashes
 
 See git flow "hotfix."
 
