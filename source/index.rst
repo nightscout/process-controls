@@ -11,13 +11,13 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-Cover Letter
-------------
+   controls/index
+   operations/2014-01/index
 
-Meeting request
----------------
+
 
 * Documents outlining
+
   * overall management, sponsorship
   * design controls
     see waffle, github issues, mailing lists, informal chats, in depth
