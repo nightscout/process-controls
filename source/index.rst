@@ -16,9 +16,7 @@ Cover Letter
 
 Meeting request
 ---------------
-Pursuant to previous meeting minutes
 
-* begun documenting process, with mind towards cfr 21, 820
 * Documents outlining
   * overall management, sponsorship
   * design controls
