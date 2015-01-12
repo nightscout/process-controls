@@ -8,6 +8,7 @@ Quality controls
    contributing/index
    support/index
    sponsorship/index
+   design/index
    documentation/index
    identification/index
    production/index
