@@ -6,15 +6,15 @@ Quality controls
    :maxdepth: 2
 
    contributing/index
-   corrective/index
-   distribution/index
+   support/index
+   sponsorship/index
    documentation/index
    identification/index
-   labeling/index
-   nonconforming/index
    production/index
+   nonconforming/index
+   corrective/index
+   labeling/index
+   distribution/index
    recordkeeping/index
    servicing/index
-   sponsorship/index
-   support/index
 
