@@ -14,39 +14,29 @@ Contents:
    controls/index
    operations/2014-01/index
 
+Quality controls
+----------------
+Initially modeled after
+http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=820,
+the quality controls outline a few areas, such as use of social media, and open
+source methodologies that are unique to Nightscout project, and then a
+comparison of how they compare to CFR: 21, 820.
+
+[CITE: 21CFR820]
+The purpose is to describe an idealized description of of the processes that
+make up Nightscout, as an open source and crowd-sourced project.  For ease of
+communication, we present several resources describing Nightscout's use of
+social media, and how those contribute to quality, as well as documents
+comparing these methods to FDA's CFR 21, part 820, outlining quality controls.
 
 
-* Documents outlining
 
-  * overall management, sponsorship
-  * design controls
-    see waffle, github issues, mailing lists, informal chats, in depth
-    ethnographies, gitter
-  * document controls
-    see waffle, github, blogs, support sites
-    see contribution guidelines, gitter
-  * identification, traceability
-    analytics, forks, issues, facebook threads, git version, product
-    version numbering
-  * production and process controls
-    See site, code review, github, gitter chat, testing
-  * acceptance activities
-    See support group, testing, google alpha, beta channels, dev
-    testing.  See analytics.
-  * Nonconforming Product
-    See prior reports, analysis from support, analytics.
-  * Corrective and Preventative action
-    See new guidelines in development in response to community needs.
-    See length of time between bug reports and resolved via dev
-    channels.
-  * Labeling and packaging control
-    Discuss git/github, Nightscout Foundation.
-  * Handling, Storage, Distribution, Installation
-    See support, upgrade-fork tools, analytics.
-  * Records
-    Requesting access to way to record events.
-  * Servicing
-    Tracking updates, see update tool.
+Operations
+----------
+Operations describes in more precise detail how the process has had an effect,
+referencing actual pull requests, issues, and examples from social media.
+Above all, this is intended to be an accurate description of Nightscout.
+
 
 Indices and tables
 ==================
