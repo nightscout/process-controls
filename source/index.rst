@@ -29,6 +29,8 @@ communication, we present several resources describing Nightscout's use of
 social media, and how those contribute to quality, as well as documents
 comparing these methods to FDA's CFR 21, part 820, outlining quality controls.
 
+See :cite:`21CFR820`
+
 
 
 Operations
