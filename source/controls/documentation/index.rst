@@ -13,6 +13,10 @@ android-uploader
 ################
 https://github.com/nightscout/android-uploader/
 
+cgm-pebble
+##################
+https://github.com/nightscout/cgm-pebble/
+
 cgm-remote-monitor
 ##################
 https://github.com/nightscout/cgm-remote-monitor/

@@ -9,6 +9,9 @@ android-uploader
 ################
 
 
+cgm-pebble
+##################
+
 cgm-remote-monitor
 ##################
 

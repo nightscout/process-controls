@@ -11,6 +11,10 @@ See also, google play store releases, alpha, and beta channels.
 These are co-ordinated through discussion on the google Nightscout
 beta group.
 
+cgm-pebble
+##################
+https://github.com/nightscout/cgm-pebble/issues
+
 cgm-remote-monitor
 ##################
 https://github.com/nightscout/cgm-remote-monitor/releases
