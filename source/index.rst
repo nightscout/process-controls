@@ -26,7 +26,7 @@ comparing these methods to FDA's CFR 21, part 820, outlining quality controls.
 See :cite:`21CFR820`
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    controls/index
 
@@ -39,7 +39,7 @@ referencing actual pull requests, issues, and examples from social media.
 Above all, this is intended to be an accurate description of Nightscout.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    operations/2014-01/index
 
