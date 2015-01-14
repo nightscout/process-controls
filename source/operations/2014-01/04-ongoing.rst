@@ -7,16 +7,33 @@ Common problems
 
 It's always the strings
 +++++++++++++++++++++++
+A common problem is correctly co-ordinating the database configuration
+details between the android uploader and the web app.  The problem is
+by far the most common source of use error.  This particular problems
+probably dwarfs all the other problems.
 
 Solution: use QR code.
+A QR code generator, http://nightscout.github.io/pages/configure/
+allows users to type the configuration, verify the syntax, and then
+copy and paste the configuration settings into Azure.  This also
+allows the android uploader to automatically configure itself by
+interpreting a picture of the scanned QR code in the Nightscout app.
 
+This particular feature was discussed on variety of social media,
+https://github.com/nightscout/android-uploader/pull/93 and then
+integrated through pull request.
 
 Ongoing concerns
 ----------------
 
 Data privacy and security
 +++++++++++++++++++++++++
-Underwhelming response.
+Most often expressed as feature request:
+  
+  * User would like to allow school administration access during
+    school hours only.
+
+
 Certain features we are adding require good authentication, and there
 are lots of legitimate requests for being able to schedule black out
 zones during times of the day.  We've added SSL protection to help
@@ -33,7 +50,8 @@ or similar technologies.
 
 More devices
 ++++++++++++
-Medtronic support.
+Medtronic support.  There is a request for Medtronic support every 2
+days.
 
 Accurate reporting
 ++++++++++++++++++
