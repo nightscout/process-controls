@@ -80,9 +80,9 @@ Applications obtained via Google play have a built in mechanism to report "Crash
 
 In the last 6 months, we have only had 4 reports via the play console. 3 of the 4 reports can be attributed to the chart and only affected android 4.3 devices. The other reported crash was due to an out of memory condition with the mongo driver.
 
-.. image:: google_console_crashes.png
+.. image:: google_console_crashes-small.png
 
-.. image:: acra_crashes.png
+.. image:: acra_crashes-small.png
 
 2015-01
 =======
