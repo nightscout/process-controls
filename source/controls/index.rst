@@ -5,6 +5,7 @@ Quality controls
 .. toctree::
    :maxdepth: 2
 
+   social/index
    contributing/index
    support/index
    sponsorship/index
