@@ -20,7 +20,7 @@ issues in consideration at all stages of the process.
 
 
 Design planning
-------------
+---------------
 See waffle.io and github issues, pull requests.
 
 Can provide snapshots via api.
