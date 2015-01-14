@@ -7,6 +7,26 @@ Support team edits quickstart and troubleshooter guides according to
 advice from engineers.  These notes are co-ordinated through README's
 available on github as well as the Release notes for each version.
 
+
+Here are the README's:
+android-uploader
+################
+https://github.com/nightscout/android-uploader/
+
+cgm-remote-monitor
+##################
+https://github.com/nightscout/cgm-remote-monitor/
+
+chrome-uploader
+###############
+
+https://github.com/nightscout/chrome-uploader/
+
+ios-monitor
+###########
+https://github.com/nightscout/ios-monitor/
+
+
 .. note::
 
    For

@@ -2,6 +2,27 @@
 Labeling, Packaging
 ===================
 
+Each app has a way to view information about the version of the
+software involved.
+
+android-uploader
+################
+
+
+cgm-remote-monitor
+##################
+
+
+chrome-uploader
+###############
+
+
+
+ios-monitor
+###########
+
+
+
 
 .. note::
 

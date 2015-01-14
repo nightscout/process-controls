@@ -9,6 +9,8 @@ Nonconforming product
 
 See git flow "hotfix."
 
+https://github.com/nvie/gitflow/wiki/Command-Line-Arguments#hotfix
+
 .. note::
 
    For

@@ -9,6 +9,9 @@ Some of those also distribute with git-hash to double confirm against
 releases.  Releases are git-tag'd at a hash against their published
 version.
 
+* http://semver.org/
+* https://github.com/nvie/gitflow/wiki/Command-Line-Arguments#release
+* http://danielkummer.github.io/git-flow-cheatsheet/#release
 
 .. note::
 
