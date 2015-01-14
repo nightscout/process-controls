@@ -1,4 +1,10 @@
 
+
+.. toctree::
+   :maxdepth: 4
+
+   nexus-timing-change
+
 Case studies
 ============
 

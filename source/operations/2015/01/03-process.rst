@@ -15,6 +15,9 @@ alpha channels in the Google Play store.  Once we've done some testing
 and fixed the most glaring issues, the developers close the release
 branch, and merges to master.
 
+We've also created a process-controls document to describe how social
+networks play a factor in co-ordinating the work of many people to
+produce a system that pursues quality.
 
 Projects
 --------
