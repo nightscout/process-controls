@@ -10,7 +10,7 @@ Welcome to Nightscout process's documentation!
    :maxdepth: 4
 
    controls/index
-   operations/2014-01/index
+   operations/index
 
 Quality controls
 ----------------
