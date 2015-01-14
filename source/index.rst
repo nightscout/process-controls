@@ -26,7 +26,7 @@ comparing these methods to FDA's CFR 21, part 820, outlining quality controls.
 See :cite:`21CFR820`
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
 
    controls/index
 
