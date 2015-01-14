@@ -6,13 +6,7 @@
 Welcome to Nightscout process's documentation!
 ==============================================
 
-Contents:
 
-.. toctree::
-   :maxdepth: 2
-
-   controls/index
-   operations/2014-01/index
 
 Quality controls
 ----------------
@@ -31,6 +25,11 @@ comparing these methods to FDA's CFR 21, part 820, outlining quality controls.
 
 See :cite:`21CFR820`
 
+.. toctree::
+   :maxdepth: 2
+
+   controls/index
+
 
 
 Operations
@@ -39,6 +38,10 @@ Operations describes in more precise detail how the process has had an effect,
 referencing actual pull requests, issues, and examples from social media.
 Above all, this is intended to be an accurate description of Nightscout.
 
+.. toctree::
+   :maxdepth: 2
+
+   operations/2014-01/index
 
 Indices and tables
 ==================
